@@ -1,0 +1,274 @@
+---
+title: gridSVG, d3, and slidify
+author: Timely Portfolio
+github: {user: timelyportfolio, repo: gridSVG_d3_multline, branch: "gh-pages"}
+framework: minimal
+mode: selfcontained
+highlighter : highlight.js
+hitheme     : tomorrow
+assets:
+  jshead:
+  - "http://d3js.org/d3.v3.js"
+---
+
+<script src = "http://d3js.org/d3.v3.js" meta-charset = "utf-8"></script>
+
+<a href="https://github.com/timelyportfolio/gridSVG_d3_multline"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+  
+```{r echo=F, warning= F, message=F}
+opts_chunk$set(
+  message = TRUE,
+  warning = TRUE,
+  error = TRUE,
+  tidy = FALSE,
+  cache = FALSE,
+  results = 'asis'
+)
+```
+
+## FRED, Give Us Some Treasury Yield Data
+
+```{r}
+require(quantmod)
+require(rCharts)
+#now get the US bonds from FRED
+USbondssymbols <- paste0("DGS",c(1,2,3,5,7,10,20,30))
+
+ust.xts <- xts()
+for (i in 1:length( USbondssymbols ) ) {
+  ust.xts <- merge( 
+    ust.xts,
+    getSymbols( 
+      USbondssymbols[i], auto.assign = FALSE,src = "FRED"
+    )
+  )
+}
+xtsMelt <- function(data) {
+  require(reshape2)
+  
+  #translate xts to time series to json with date and data
+  #for this behavior will be more generic than the original
+  #data will not be transformed, so template.rmd will be changed to reflect
+  
+  
+  #convert to data frame
+  data.df <- data.frame(
+    cbind(format(index(data),"%Y-%m-%d"),coredata(data))
+  )
+  colnames(data.df)[1] = "date"
+  data.melt <- melt(data.df,id.vars=1,stringsAsFactors=FALSE)
+  colnames(data.melt) <- c("date","indexname","value")
+  #remove periods from indexnames to prevent javascript confusion
+  #these . usually come from spaces in the colnames when melted
+  data.melt[,"indexname"] <- apply(
+    matrix(data.melt[,"indexname"]),
+    2,gsub,pattern="[.]",replacement=""
+  )
+  return(data.melt)
+  #return(df2json(na.omit(data.melt)))
+}
+
+ust.melt <- na.omit( xtsMelt( ust.xts["2012::",] ) )
+
+ust.melt$date <- as.Date(ust.melt$date)
+ust.melt$value <- as.numeric(ust.melt$value)
+ust.melt$indexname <- factor(
+  ust.melt$indexname, levels = colnames(ust.xts)
+)
+ust.melt$maturity <- as.numeric(
+  substr(
+    ust.melt$indexname, 4, length( ust.melt$indexname ) - 4
+  )
+)
+ust.melt$country <- rep( "US", nrow( ust.melt ))
+```
+
+## Draw A Graph with Lattice
+
+```{r results = 'asis'}
+require(latticeExtra)
+
+#set up height and width
+#x11( width = 10, height = 6 )
+
+p1 <- xyplot(
+  value ~ date | indexname,
+  groups = indexname,
+  data =  ust.melt,
+  type = "l",
+  scales = list(
+    x = list(
+      at = pretty(ust.melt$date,n=3)[c(1,3)],
+      format = "%b %Y"
+    )),
+  layout = c(8,1)
+)
+p1
+
+require(rjson)
+require(gridSVG)
+
+#set up a function to pull the groups
+#which lattice calls subscripts
+#use with lapply
+#l is the 
+getgroup <- function(l,p) {
+  return(p$panel.args.common$groups[l$subscripts])
+}
+
+#set up a function to get the data and add groups
+#in one list so we can pass as json
+#accepts a trellis object as p
+getlist <- function(p) {
+  data <- p$panel.args
+  
+  #use the getgroup function to get groups
+  #lattice places the groups in subscripts
+  #in the panel.args.common list
+  groups <- lapply(
+    data,
+    FUN=getgroup,
+    p=p
+  )
+  
+  for ( i in 1:length(data) ) {
+    data[[i]]$groups <- groups[[i]]
+  }
+  
+  names(data) <- unlist(p$condlevels)
+  
+  return(
+    list(
+      strips = p$condlevels,
+      groups = unique(unlist(groups)),
+      data = data
+    )
+  )
+}
+
+#export our lattice chart
+exportlist <- grid.export("", addClasses = TRUE )
+```
+
+<div>
+```{r results = 'asis', echo =F }
+cat(noquote(saveXML(exportlist[[1]])))
+```
+</div>
+
+<script>
+var data = 
+```{r echo = F}
+#use our fancy function from above to get
+#all the data we will need to reverse data bind with d3
+data <- rjson::toJSON( getlist( p1 ) )
+cat(data)
+```
+var svg = d3.select("svg");
+var line = d3.svg.line()
+                  .x(function (d) {
+                      return +d.x;
+                   })
+                  .y(function (d) { return +d.y; })
+                  .interpolate("basis");
+
+var parseDate = d3.time.format("%Y-%m-%d").parse,
+                    bisectDate = d3.bisector(function (d) { return +d.x; }).left;
+
+function pointsToArray(points) {
+  var pointsArray = new Array();
+
+  pointsArray = points.match(/[^ ]+/g);
+
+  pointsArray = pointsArray.map(
+                      function (d, i) {
+                        return {
+                          x: d.split(",")[0],
+                          y: d.split(",")[1],
+                        }
+                      }
+                  );
+
+  return pointsArray;
+}
+
+var g = svg.selectAll('.lines');
+
+var pointsdata = [];
+var pointsline = [];
+d3.entries(data.data).forEach(
+  function (d,i) {
+    pointsline = pointsToArray(d3.select(g[0][i]).select('polyline').attr("points"));
+    d.value.groups.forEach(
+      function (dd, ii) {
+        pointsdata.push(
+           {
+              x:pointsline[ii].x, y:pointsline[ii].y,
+              data: {"x": d.value.x[ii], "y": d.value.y[ii], "group": d.value.groups[ii], "strip": d.key } 
+           }
+        )
+      }
+    )
+  }
+)
+
+
+//assign data to the line
+//g.data(d3.entries(data.data));
+g.data(d3.nest().key(function (d) { return d.data.group }).entries(pointsdata));
+
+//loop through each polyline and add a path to contain the data for tootips/hover
+g[0].forEach(function(d) {   
+  var mypath = d3.select(d).append("path")
+  mypath
+    .datum(mypath.datum().values)
+    .attr("d",line)
+})
+
+var focus = svg.selectAll(".focus")
+                    .data(d3.entries(data.groups)).enter().append("g")
+                          .attr("class", "focus")
+                          .attr("id", function (d, i) { return "focus-" + i; })
+                          .style("display", "none");
+
+focus.append("circle")
+                  .attr("r", 4.5)
+                  .attr("stroke", "black")
+                  .attr("fill-opacity", "0");
+
+focus.append("text")
+  .attr("x", 9)
+  .attr("dy", ".35em");
+
+svg
+  .on("mouseover", function () { focus.style("display", null); })
+  .on("mouseout", function () { focus.style("display", "none"); })
+  .on("mousemove", mousemove);
+
+function mousemove() {
+  var x0 = d3.mouse(this)[0];
+  var i;
+
+  for(i1 = 0; i1<data.groups.length; i1++) {
+    groupdata = d3.select(g.select("path")[0][i1]).datum().values
+    if(d3.max(groupdata, function(d){return d.x}) > x0) {
+      i = bisectDate(groupdata, x0, 1);
+      break;
+    }
+  }
+
+  d3.entries(data.groups).forEach(function (group, i1) {
+      groupdata = d3.select(g.select("path")[0][i1]).datum().values
+
+      var d;
+      d = groupdata[i];
+      //if (Boolean(d1)) { d = x0 - d0.x > d1.x - x0 ? d1 : d0 } else { d = d0 };
+      d3.select("#focus-" + i1)
+              .attr("transform", "translate(" + d.x + "," + ((+d3.select("rect").attr("height")) - d.y) + ")")
+              .attr("fill", "black"); //color(0));
+      d3.select("#focus-" + i1).select("text")
+              .text(d.data.group + ": " + d.data.y)
+             // .attr("fill", "black"); //color(0));
+  });
+}
+</script>
