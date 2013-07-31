@@ -88,8 +88,8 @@ ust.melt$country <- rep( "US", nrow( ust.melt ))
 ```{r results = 'asis', fig.keep = 'last'}
 require(latticeExtra)
 
-#set up height and width
-#x11( width = 10, height = 6 )
+#set up plotting window to get a bigger graph
+x11( width = 8, height = 5 )
 
 p1 <- xyplot(
   value ~ date | indexname,
