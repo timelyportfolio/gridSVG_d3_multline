@@ -85,7 +85,7 @@ ust.melt$country <- rep( "US", nrow( ust.melt ))
 
 ## Draw A Graph with Lattice
 
-```{r results = 'asis'}
+```{r results = 'asis', fig.keep = 'last'}
 require(latticeExtra)
 
 #set up height and width
