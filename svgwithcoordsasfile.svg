@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="ISO8859-1"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="793px" height="357px" viewBox="0 0 793 357" version="1.1">
+  <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
+    <gridsvg:generator name="gridSVG" version="1.3-0" time="2013-08-08 16:09:39"/>
+    <gridsvg:argument name="name" value="svgwithcoordsasfile.svg"/>
+    <gridsvg:argument name="exportCoords" value="file"/>
+    <gridsvg:argument name="exportMappings" value="none"/>
+    <gridsvg:argument name="exportJS" value="none"/>
+    <gridsvg:argument name="res" value="72"/>
+    <gridsvg:argument name="prefix" value=""/>
+    <gridsvg:argument name="addClasses" value="FALSE"/>
+    <gridsvg:argument name="indent" value="TRUE"/>
+    <gridsvg:argument name="htmlWrapper" value="FALSE"/>
+    <gridsvg:argument name="usePaths" value="vpPaths"/>
+    <gridsvg:argument name="uniqueNames" value="TRUE"/>
+    <gridsvg:separator name="id.sep" value="."/>
+    <gridsvg:separator name="gPath.sep" value="::"/>
+    <gridsvg:separator name="vpPath.sep" value="::"/>
+  </metadata>
+  <script type="application/ecmascript" xlink:href="svgwithcoordsasfile.svg.coords.js"/>
+  <g transform="translate(0, 357) scale(1, -1)">
+    <g id="gridSVG" fill="none" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" font-size="16" font-family="Helvetica, Arial, FreeSans, Liberation Sans, Nimbus Sans L, sans-serif" opacity="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-opacity="1" fill-opacity="0" font-weight="normal" font-style="normal">
+      <g id="plot_01.background.1">
+        <rect id="plot_01.background.1.1" x="0" y="0" width="793" height="357" fill="none" stroke="none" stroke-opacity="0" fill-opacity="0"/>
+      </g>
+      <g id="plot_01.toplevel.vp.1" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.1">
+          <g id="plot_01.xlab.1">
+            <g id="plot_01.xlab.1.1" transform="translate(404.5, 17)" stroke-width="0.1">
+              <g id="plot_01.xlab.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.xlab.1.1.text" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.xlab.1.1.tspan.1" dy="5" x="0">date</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.1">
+          <g id="plot_01.ylab.1">
+            <g id="plot_01.ylab.1.1" transform="translate(11, 176.3)" stroke-width="0.1">
+              <g id="plot_01.ylab.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ylab.1.1.text" transform="rotate(-90)" text-anchor="middle" opacity="1" stroke="rgb(0,0,0)" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ylab.1.1.tspan.1" dy="5" x="0">value</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.1"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.1.1.1">
+            <polyline id="plot_01.ticks.top.panel.1.1.1.1" points="75.09,313.99 75.09,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.1.1.1.2" points="124.61,313.99 124.61,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.1">
+          <g id="plot_01.ticks.left.panel.1.1.1">
+            <polyline id="plot_01.ticks.left.panel.1.1.1.1" points="45.01,62.26 39.34,62.26" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.2" points="45.01,121.19 39.34,121.19" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.3" points="45.01,180.13 39.34,180.13" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.4" points="45.01,239.07 39.34,239.07" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.left.panel.1.1.1.5" points="45.01,298.01 39.34,298.01" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.left.panel.1.1.1">
+            <g id="plot_01.ticklabels.left.panel.1.1.1.1" transform="translate(33.67, 62.26)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.1.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.1.tspan.1" dy="4" x="0">0</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.2" transform="translate(33.67, 121.19)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.2.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.2.tspan.1" dy="4" x="0">1</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.3" transform="translate(33.67, 180.13)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.3.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.3.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.3.tspan.1" dy="4" x="0">2</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.left.panel.1.1.1.4" transform="translate(33.67, 239.07)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.left.panel.1.1.1.4.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.left.panel.1.1.1.4.text" text-anchor="end" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.left.panel.1.1.1.4.tspan.1" dy="4" x="0">3</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.1.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.1" points="75.09,53.01 75.09,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.1.1.1.2" points="124.61,53.01 124.61,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.1.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.1" transform="translate(75.09, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.1.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.1.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.1.1.1.1.tspan.1" dy="8" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.1.1.1.2" transform="translate(124.61, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.1.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.1.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.1.1.1.2.tspan.1" dy="8" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.1.panel.1.1.1">
+            <polyline id="plot_01.xyplot.lines.group.1.panel.1.1.1.1" points="50.53,69.33 50.66,69.33 50.8,68.74 50.93,69.33 51.34,68.74 51.48,68.74 51.61,68.74 51.75,68.74 51.88,68.15 52.43,68.74 52.56,68.74 52.7,68.74 52.83,68.74 53.24,69.33 53.38,69.33 53.51,69.33 53.65,69.33 53.78,69.33 54.19,69.33 54.33,69.92 54.46,69.92 54.6,70.51 54.73,70.51 55.14,70.51 55.28,70.51 55.41,71.1 55.55,71.1 55.68,71.1 56.09,71.1 56.23,72.86 56.36,72.86 56.5,72.27 56.63,72.86 57.18,72.27 57.31,72.27 57.45,72.27 57.58,72.86 57.99,72.27 58.13,72.86 58.26,72.86 58.4,72.86 58.53,72.27 58.94,72.27 59.07,72.27 59.21,72.86 59.35,72.86 59.48,72.86 59.89,72.86 60.02,74.04 60.16,74.63 60.3,74.63 60.43,74.63 60.84,74.63 60.97,75.22 61.11,74.63 61.25,73.45 61.38,73.45 61.79,73.45 61.92,72.86 62.06,72.86 62.2,72.86 62.33,73.45 62.74,72.86 62.87,74.04 63.01,73.45 63.15,73.45 63.28,73.45 63.69,73.45 63.82,73.45 63.96,72.86 64.1,72.86 64.23,72.27 64.64,72.86 64.77,72.86 64.91,72.86 65.05,72.27 65.18,72.86 65.59,72.27 65.72,72.86 65.86,72.86 66,72.86 66.13,73.45 66.54,74.04 66.67,73.45 66.81,72.86 66.94,73.45 67.08,72.86 67.49,72.86 67.62,72.86 67.76,72.86 67.89,72.86 68.03,72.86 68.44,73.45 68.57,73.45 68.71,74.04 68.84,74.04 68.98,74.04 69.39,74.63 69.52,74.63 69.66,74.04 69.79,74.63 69.93,74.04 70.47,74.04 70.61,73.45 70.74,72.86 70.88,72.27 71.29,72.86 71.42,72.86 71.56,72.86 71.69,72.86 71.83,73.45 72.24,72.86 72.37,73.45 72.51,72.86 72.64,72.86 72.78,72.86 73.19,72.86 73.32,72.86 73.46,74.04 73.59,73.45 73.73,73.45 74.14,73.45 74.27,74.63 74.41,74.63 74.54,75.22 74.68,74.63 75.09,74.63 75.22,74.63 75.49,73.45 75.63,74.04 76.04,74.04 76.17,74.04 76.31,74.04 76.44,74.04 76.58,74.04 76.99,72.86 77.12,72.86 77.26,72.86 77.39,72.27 77.53,72.27 77.94,72.27 78.07,72.86 78.21,72.27 78.34,72.86 78.48,72.27 78.89,72.86 79.02,71.69 79.16,72.27 79.29,72.27 79.43,71.69 79.84,71.69 79.97,73.45 80.11,73.45 80.24,74.04 80.38,72.86 80.79,73.45 80.92,73.45 81.06,73.45 81.19,74.04 81.33,74.04 81.74,73.45 81.87,74.04 82.01,73.45 82.14,73.45 82.28,73.45 82.68,72.86 82.82,72.86 82.96,72.86 83.09,72.27 83.23,71.69 83.77,71.69 83.91,72.27 84.04,72.86 84.18,72.86 84.58,72.86 84.72,72.86 84.86,72.86 84.99,72.27 85.13,72.86 85.53,72.86 85.67,72.86 85.81,72.86 85.94,72.86 86.08,72.86 86.48,72.86 86.62,72.86 86.76,72.27 86.89,71.69 87.03,72.27 87.43,72.27 87.57,71.69 87.71,71.69 87.84,72.86 87.98,72.86 88.52,72.86 88.66,72.86 88.79,72.86 88.93,72.86 89.33,73.45 89.47,72.86 89.61,72.86 89.74,72.86 89.88,72.86 90.28,73.45 90.42,72.86 90.55,72.86 90.69,73.45 90.83,73.45 91.23,72.86 91.5,72.86 91.64,72.86 91.78,73.45 92.18,73.45 92.32,73.45 92.45,72.86 92.59,74.04 92.73,72.86 93.27,72.86 93.4,72.86 93.54,72.27 93.68,71.69 94.08,71.69 94.22,71.69 94.35,72.27 94.63,73.45 95.03,72.27 95.17,72.86 95.3,72.86 95.44,72.86 95.58,72.86 95.98,72.86 96.12,72.86 96.25,72.86 96.39,72.86 96.53,72.86 96.93,72.86 97.07,71.69 97.2,70.51 97.34,70.51 97.48,69.92 97.88,69.92 98.02,71.69 98.15,71.1 98.29,71.1 98.43,71.1 98.83,71.69 99.1,71.69 99.24,71.1 99.37,71.1 99.78,71.69 100.05,71.1 100.19,71.1 100.32,71.1 100.73,71.1 100.87,70.51 101,69.92 101.14,70.51 101.27,70.51 101.68,70.51 101.82,70.51 101.95,70.51 102.09,70.51 102.22,70.51 102.77,70.51 102.9,71.1 103.04,71.1 103.17,71.1 103.58,71.69 103.72,71.1 103.85,71.1 103.99,71.1 104.12,71.1 104.53,71.1 104.67,71.1 104.8,71.1 104.94,71.1 105.07,70.51 105.48,71.1 105.62,70.51 105.75,71.1 105.89,71.69 106.02,72.27 106.57,72.27 106.7,72.27 106.84,71.69 106.97,71.69 107.38,71.69 107.52,72.27 107.65,72.27 107.79,72.27 107.92,71.69 108.33,71.69 108.47,71.1 108.6,71.1 108.74,71.1 108.87,71.1 109.28,71.1 109.42,71.1 109.55,71.1 109.69,71.1 109.82,70.51 110.23,71.1 110.37,71.1 110.5,71.1 110.64,70.51 110.77,70.51 111.18,70.51 111.32,70.51 111.45,70.51 111.59,70.51 112.13,70.51 112.27,70.51 112.4,69.92 112.54,69.92 112.67,69.92 113.08,69.92 113.22,69.92 113.35,69.33 113.49,69.33 113.62,68.74 114.03,69.33 114.17,69.92 114.3,69.92 114.44,69.33 114.57,69.33 114.98,69.33 115.11,69.33 115.25,69.92 115.39,69.33 115.52,69.33 115.93,69.33 116.06,68.74 116.2,68.74 116.34,68.74 116.47,68.74 116.88,68.74 117.01,68.15 117.15,68.74 117.29,68.74 117.42,68.74 117.83,69.92 117.96,69.33 118.1,69.33 118.24,69.33 118.37,69.33 118.78,69.33 118.91,69.33 119.05,68.74 119.19,69.33 119.32,69.33 119.86,69.92 120,70.51 120.14,69.92 120.27,70.51 120.68,70.51 120.81,70.51 120.95,70.51 121.09,70.51 121.22,70.51 121.63,70.51 121.76,70.51 121.9,70.51 122.04,70.51 122.17,69.92 122.58,69.92 122.71,69.92 122.85,69.92 122.98,70.51 123.12,69.92 123.53,71.69 123.66,72.27 123.8,71.69 123.93,71.1 124.07,71.1 124.48,71.1 124.61,70.51 124.75,70.51 125.02,71.1 125.43,70.51 125.56,70.51 125.7,69.92 125.83,69.92 125.97,69.33 126.38,68.74 126.51,68.15 126.65,68.74 126.78,68.74 126.92,68.74 127.33,68.15 127.46,69.33 127.6,69.33 127.73,69.33 127.87,68.74 128.28,68.74 128.41,68.74 128.55,68.74 128.68,69.92 128.82,68.74 129.23,69.33 129.36,69.33" stroke-dasharray="none" stroke="rgb(0,128,255)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.2">
+          <g id="plot_01.border.panel.1.1.1">
+            <rect id="plot_01.border.panel.1.1.1.1" x="45.01" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.1.1.1">
+              <rect id="plot_01.bg.strip.1.1.1.1" x="45.01" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.1.1.1">
+              <g id="plot_01.textr.strip.1.1.1.1" transform="translate(73.44, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.1.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.1.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.1.1.1.1.tspan.1" dy="5" x="0">DGS1</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.1.1.1">
+              <rect id="plot_01.border.strip.1.1.1.1" x="45.01" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.1.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.2.1.1">
+            <polyline id="plot_01.ticks.top.panel.2.1.1.1" points="164.96,313.99 164.96,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.2.1.1.2" points="214.49,313.99 214.49,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.top.panel.2.1.1">
+            <g id="plot_01.ticklabels.top.panel.2.1.1.1" transform="translate(164.96, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.2.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.2.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.2.1.1.1.tspan.1" dy="0" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.top.panel.2.1.1.2" transform="translate(214.49, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.2.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.2.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.2.1.1.2.tspan.1" dy="0" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.2.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.2.1.1.1" points="164.96,53.01 164.96,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.2.1.1.2" points="214.49,53.01 214.49,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.2.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.2.panel.2.1.1">
+            <polyline id="plot_01.xyplot.lines.group.2.panel.2.1.1.1" points="140.4,78.17 140.54,76.99 140.67,78.17 140.81,76.99 141.21,77.58 141.35,76.4 141.48,76.4 141.62,75.22 141.76,76.4 142.3,74.63 142.43,76.4 142.57,77.58 142.71,77.58 143.11,77.58 143.25,76.4 143.38,75.22 143.52,75.22 143.66,75.22 144.06,75.22 144.2,75.22 144.33,75.81 144.47,75.81 144.61,75.81 145.01,76.4 145.15,76.99 145.28,78.17 145.42,78.17 145.56,78.17 145.96,79.35 146.1,79.35 146.23,79.35 146.37,79.35 146.51,79.35 147.05,80.53 147.18,79.35 147.32,80.53 147.46,80.53 147.86,79.94 148,79.94 148.13,79.94 148.27,79.94 148.41,78.76 148.81,80.53 148.95,79.94 149.08,79.94 149.22,81.12 149.35,81.7 149.76,81.7 149.9,82.88 150.03,85.83 150.17,84.06 150.3,84.06 150.71,85.24 150.85,86.42 150.98,85.24 151.12,84.06 151.25,84.06 151.66,83.47 151.8,81.7 151.93,82.29 152.07,81.7 152.2,81.7 152.61,81.7 152.75,83.47 152.88,82.88 153.02,82.88 153.15,81.12 153.56,81.12 153.7,78.76 153.83,79.94 153.97,79.35 154.1,78.17 154.51,78.17 154.65,78.17 154.78,78.17 154.92,78.17 155.05,79.35 155.46,78.17 155.6,78.17 155.73,77.58 155.87,77.58 156,77.58 156.41,78.17 156.55,78.17 156.68,78.17 156.82,78.76 156.95,78.17 157.36,78.17 157.5,78.17 157.63,78.17 157.77,78.17 157.9,78.17 158.31,79.35 158.45,79.35 158.58,79.94 158.72,81.12 158.85,81.12 159.26,79.94 159.4,79.94 159.53,78.76 159.67,79.35 159.8,79.94 160.35,79.94 160.48,78.17 160.62,78.17 160.75,76.99 161.16,76.99 161.3,76.99 161.43,77.58 161.57,78.17 161.7,78.76 162.11,78.17 162.25,79.94 162.38,79.94 162.52,79.94 162.65,79.35 163.06,79.35 163.2,79.94 163.33,81.12 163.47,81.12 163.6,80.53 164.01,80.53 164.15,80.53 164.28,80.53 164.42,80.53 164.55,81.7 164.96,79.94 165.1,79.94 165.37,78.76 165.5,78.17 165.91,78.17 166.04,78.17 166.18,78.17 166.32,76.99 166.45,76.99 166.86,76.4 166.99,76.99 167.13,75.22 167.27,75.22 167.4,75.22 167.81,75.22 167.94,75.22 168.08,75.22 168.22,75.81 168.35,76.99 168.76,75.81 168.89,75.81 169.03,76.4 169.17,76.4 169.3,76.4 169.71,76.4 169.84,78.17 169.98,79.35 170.12,79.35 170.25,78.17 170.66,78.17 170.79,78.17 170.93,78.17 171.07,79.35 171.2,79.35 171.61,79.35 171.74,80.53 171.88,77.58 172.02,77.58 172.15,78.76 172.56,78.76 172.69,78.17 172.83,78.17 172.97,78.17 173.1,75.22 173.64,75.81 173.78,76.99 173.91,78.17 174.05,76.99 174.46,76.99 174.59,76.99 174.73,76.99 174.86,76.4 175,78.17 175.41,76.99 175.54,76.99 175.68,78.17 175.81,78.17 175.95,78.17 176.36,78.17 176.49,78.17 176.63,77.58 176.76,76.99 176.9,75.81 177.31,76.99 177.44,75.81 177.58,75.81 177.71,75.81 177.85,78.17 178.39,76.99 178.53,78.17 178.66,78.76 178.8,78.17 179.21,78.17 179.34,78.17 179.48,79.94 179.61,79.35 179.75,79.94 180.16,81.12 180.29,79.35 180.43,79.35 180.56,80.53 180.7,79.94 181.11,79.94 181.38,79.94 181.51,79.94 181.65,78.76 182.06,78.76 182.19,79.94 182.33,78.17 182.46,78.17 182.6,78.17 183.14,78.17 183.28,76.99 183.41,76.4 183.55,76.4 183.96,76.99 184.09,78.17 184.23,78.17 184.5,79.35 184.91,78.17 185.04,78.17 185.18,78.17 185.31,76.99 185.45,76.99 185.86,76.99 185.99,76.99 186.13,76.99 186.26,76.99 186.4,76.99 186.81,76.4 186.94,76.4 187.08,76.99 187.21,78.17 187.35,76.4 187.76,76.99 187.89,78.76 188.03,78.76 188.16,78.76 188.3,77.58 188.71,77.58 188.98,77.58 189.11,77.58 189.25,78.17 189.65,76.99 189.93,78.17 190.06,78.17 190.2,78.17 190.6,78.17 190.74,76.99 190.88,76.4 191.01,77.58 191.15,77.58 191.55,77.58 191.69,77.58 191.83,77.58 191.96,78.76 192.1,77.58 192.64,77.58 192.78,77.58 192.91,75.81 193.05,78.76 193.45,79.35 193.59,79.94 193.73,78.17 193.86,78.17 194,78.17 194.4,76.99 194.54,78.17 194.68,78.17 194.81,76.99 194.95,76.99 195.35,78.17 195.49,79.35 195.63,79.35 195.76,78.17 195.9,79.35 196.44,79.35 196.58,78.17 196.71,77.58 196.85,78.17 197.25,76.99 197.39,76.99 197.52,78.17 197.66,76.99 197.8,76.99 198.2,76.4 198.34,76.99 198.47,76.99 198.61,76.99 198.75,78.17 199.15,78.17 199.29,78.17 199.42,78.17 199.56,78.17 199.7,76.99 200.1,77.58 200.24,76.4 200.37,77.58 200.51,78.17 200.65,77.58 201.05,76.4 201.19,76.99 201.32,76.99 201.46,76.99 202,75.81 202.14,76.99 202.27,76.4 202.41,75.22 202.55,76.4 202.95,76.4 203.09,76.4 203.22,76.4 203.36,76.4 203.5,75.22 203.9,75.22 204.04,76.4 204.17,76.4 204.31,76.4 204.45,76.4 204.85,76.4 204.99,75.81 205.12,75.81 205.26,75.81 205.4,75.22 205.8,74.04 205.94,75.22 206.07,74.04 206.21,74.04 206.34,75.22 206.75,75.22 206.89,75.22 207.02,75.22 207.16,75.22 207.29,77.58 207.7,76.4 207.84,77.58 207.97,77.58 208.11,75.81 208.24,77.58 208.65,77.58 208.79,77.58 208.92,77.58 209.06,77.58 209.19,77.58 209.74,79.35 209.87,79.94 210.01,80.53 210.14,79.94 210.55,79.94 210.69,81.12 210.82,79.94 210.96,79.94 211.09,81.12 211.5,81.12 211.64,82.29 211.77,82.29 211.91,81.12 212.04,79.35 212.45,78.17 212.59,78.17 212.72,80.53 212.86,81.7 212.99,84.65 213.4,87.01 213.54,87.6 213.67,85.24 213.81,83.47 213.94,83.47 214.35,82.29 214.49,82.29 214.62,83.47 214.89,85.83 215.3,84.06 215.44,84.06 215.57,84.65 215.71,82.29 215.84,84.06 216.25,82.29 216.39,82.29 216.52,81.12 216.66,81.12 216.79,81.12 217.2,81.12 217.34,81.7 217.47,82.29 217.61,81.12 217.74,80.53 218.15,81.7 218.29,81.7 218.42,80.53 218.56,82.88 218.69,79.94 219.1,81.12 219.24,81.12" stroke-dasharray="none" stroke="rgb(255,0,255)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.2">
+          <g id="plot_01.border.panel.2.1.1">
+            <rect id="plot_01.border.panel.2.1.1.1" x="134.88" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.2.1.1">
+              <rect id="plot_01.bg.strip.2.1.1.1" x="134.88" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.2.1.1">
+              <g id="plot_01.textr.strip.2.1.1.1" transform="translate(163.32, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.2.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.2.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.2.1.1.1.tspan.1" dy="5" x="0">DGS2</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.2.1.1">
+              <rect id="plot_01.border.strip.2.1.1.1" x="134.88" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.1.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.3.1.1">
+            <polyline id="plot_01.ticks.top.panel.3.1.1.1" points="254.83,313.99 254.83,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.3.1.1.2" points="304.36,313.99 304.36,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.3.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.3.1.1.1" points="254.83,53.01 254.83,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.3.1.1.2" points="304.36,53.01 304.36,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.3.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.3.1.1.1" transform="translate(254.83, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.3.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.3.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.3.1.1.1.tspan.1" dy="8" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.3.1.1.2" transform="translate(304.36, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.3.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.3.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.3.1.1.2.tspan.1" dy="8" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.2.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.3.panel.3.1.1">
+            <polyline id="plot_01.xyplot.lines.group.3.panel.3.1.1.1" points="230.27,85.83 230.41,85.83 230.54,85.83 230.68,85.83 231.09,84.65 231.22,84.06 231.36,82.29 231.49,82.88 231.63,82.29 232.17,81.7 232.31,82.88 232.44,83.47 232.58,84.65 232.99,85.24 233.12,85.24 233.26,82.29 233.39,80.53 233.53,81.12 233.94,80.53 234.07,79.94 234.21,80.53 234.34,80.53 234.48,81.7 234.89,81.12 235.02,82.88 235.16,82.88 235.29,84.65 235.43,83.47 235.84,85.83 235.97,85.83 236.11,84.65 236.24,87.01 236.38,87.01 236.92,88.19 237.06,87.01 237.19,87.6 237.33,87.6 237.74,85.83 237.87,86.42 238.01,87.6 238.14,87.6 238.28,86.42 238.69,87.6 238.82,85.83 238.96,87.01 239.09,88.19 239.23,89.37 239.64,89.96 239.77,92.31 239.91,97.62 240.04,95.26 240.18,95.85 240.58,97.62 240.72,98.8 240.86,96.44 240.99,95.26 241.13,94.67 241.53,94.08 241.67,91.72 241.81,92.31 241.94,91.72 242.08,92.31 242.48,91.72 242.62,95.26 242.76,93.49 242.89,91.72 243.03,88.78 243.43,89.37 243.57,87.01 243.71,87.6 243.84,87.6 243.98,86.42 244.38,87.01 244.52,87.01 244.66,85.83 244.79,85.83 244.93,85.83 245.33,85.24 245.47,85.83 245.61,85.24 245.74,85.24 245.88,85.24 246.28,84.65 246.42,85.24 246.56,85.24 246.69,85.83 246.83,84.06 247.23,84.06 247.37,83.47 247.51,83.47 247.64,84.06 247.78,83.47 248.18,84.06 248.32,84.65 248.45,85.83 248.59,85.83 248.73,87.01 249.13,86.42 249.27,86.42 249.4,85.83 249.54,87.01 249.68,86.42 250.22,87.01 250.35,84.65 250.49,82.88 250.63,82.29 251.03,82.88 251.17,82.29 251.3,84.06 251.44,84.06 251.58,85.24 251.98,84.06 252.12,86.42 252.25,85.83 252.39,86.42 252.53,84.06 252.93,84.65 253.07,85.24 253.2,86.42 253.34,86.42 253.48,87.01 253.88,85.24 254.02,87.01 254.15,87.01 254.29,85.83 254.43,86.42 254.83,85.24 254.97,85.24 255.24,85.24 255.38,84.06 255.78,83.47 255.92,84.06 256.05,83.47 256.19,82.88 256.32,82.29 256.73,80.53 256.87,81.12 257,79.94 257.14,80.53 257.27,79.35 257.68,78.76 257.82,78.76 257.95,78.76 258.09,80.53 258.22,82.29 258.63,80.53 258.77,79.94 258.9,81.12 259.04,80.53 259.17,81.7 259.58,81.7 259.72,84.06 259.85,84.65 259.99,84.65 260.12,83.47 260.53,83.47 260.67,85.24 260.8,87.01 260.94,87.01 261.07,87.01 261.48,86.42 261.62,87.01 261.75,84.06 261.89,83.47 262.02,84.06 262.43,84.06 262.57,83.47 262.7,83.47 262.84,82.88 262.97,79.94 263.52,80.53 263.65,81.12 263.79,82.29 263.92,81.7 264.33,81.7 264.47,81.7 264.6,81.7 264.74,81.12 264.87,82.88 265.28,83.47 265.42,82.88 265.55,82.88 265.69,83.47 265.82,83.47 266.23,82.88 266.37,82.88 266.5,82.29 266.64,82.29 266.77,80.53 267.18,80.53 267.32,80.53 267.45,80.53 267.59,81.12 267.72,82.29 268.27,82.88 268.4,82.88 268.54,82.29 268.67,82.29 269.08,82.29 269.22,83.47 269.35,86.42 269.49,86.42 269.62,86.42 270.03,87.01 270.17,86.42 270.3,85.83 270.44,87.6 270.57,86.42 270.98,85.83 271.25,84.65 271.39,84.65 271.52,84.65 271.93,84.65 272.07,86.42 272.2,83.47 272.34,82.88 272.47,82.88 273.01,81.7 273.15,81.7 273.29,81.12 273.42,81.12 273.83,81.7 273.96,83.47 274.1,84.06 274.37,84.06 274.78,83.47 274.91,83.47 275.05,82.88 275.19,82.88 275.32,82.29 275.73,82.29 275.86,82.29 276,81.12 276.14,81.12 276.27,81.7 276.68,81.7 276.81,81.12 276.95,81.12 277.09,82.29 277.22,82.29 277.63,84.06 277.76,85.24 277.9,85.24 278.04,85.24 278.17,84.65 278.58,84.65 278.85,85.24 278.99,84.06 279.12,83.47 279.53,83.47 279.8,84.06 279.94,85.83 280.07,86.42 280.48,86.42 280.61,84.65 280.75,84.06 280.88,84.06 281.02,84.06 281.43,84.06 281.56,83.47 281.7,83.47 281.83,85.24 281.97,84.65 282.51,84.65 282.65,84.06 282.78,84.06 282.92,87.01 283.33,88.78 283.46,87.6 283.6,87.01 283.73,87.01 283.87,85.83 284.28,84.65 284.41,86.42 284.55,85.24 284.68,85.24 284.82,85.24 285.23,85.83 285.36,86.42 285.5,88.19 285.63,87.01 285.77,87.01 286.31,88.19 286.45,87.01 286.58,85.83 286.72,85.83 287.13,84.06 287.26,84.06 287.4,83.47 287.53,83.47 287.67,82.88 288.08,82.88 288.21,83.47 288.35,84.65 288.48,85.83 288.62,87.01 289.03,87.6 289.16,86.42 289.3,87.01 289.43,87.01 289.57,85.83 289.98,84.65 290.11,84.06 290.25,84.65 290.38,84.65 290.52,85.24 290.93,84.65 291.06,84.65 291.2,83.47 291.33,83.47 291.88,83.47 292.01,83.47 292.15,82.29 292.28,81.7 292.42,81.7 292.83,82.29 292.96,82.29 293.1,83.47 293.23,82.88 293.37,81.7 293.78,81.12 293.91,81.7 294.05,82.88 294.18,82.88 294.32,82.88 294.73,82.88 294.86,82.88 295,82.29 295.13,82.88 295.27,81.12 295.68,81.12 295.81,81.12 295.95,79.94 296.08,79.94 296.22,82.29 296.62,82.29 296.76,82.88 296.9,82.88 297.03,82.88 297.17,84.65 297.57,85.83 297.71,86.42 297.85,85.83 297.98,84.06 298.12,85.83 298.52,85.83 298.66,85.24 298.8,86.42 298.93,87.01 299.07,86.42 299.61,91.13 299.75,91.13 299.88,91.13 300.02,92.9 300.42,91.72 300.56,90.55 300.7,90.55 300.83,90.55 300.97,92.9 301.37,94.67 301.51,95.85 301.65,95.85 301.78,94.67 301.92,91.13 302.32,91.13 302.46,90.55 302.6,96.44 302.73,98.8 302.87,103.51 303.27,105.28 303.41,105.87 303.55,102.92 303.68,101.15 303.82,101.15 304.22,100.56 304.36,99.98 304.49,101.74 304.77,107.64 305.17,104.1 305.31,104.1 305.44,105.28 305.58,100.56 305.72,101.15 306.12,101.15 306.26,99.98 306.39,97.62 306.53,98.21 306.67,97.03 307.07,97.03 307.21,97.62 307.34,99.98 307.48,98.8 307.62,97.03 308.02,98.21 308.16,98.8 308.29,98.21 308.43,100.56 308.57,97.03 308.97,98.21 309.11,98.8" stroke-dasharray="none" stroke="rgb(0,100,0)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.2">
+          <g id="plot_01.border.panel.3.1.1">
+            <rect id="plot_01.border.panel.3.1.1.1" x="224.75" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.3.1.1">
+              <rect id="plot_01.bg.strip.3.1.1.1" x="224.75" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.3.1.1">
+              <g id="plot_01.textr.strip.3.1.1.1" transform="translate(253.19, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.3.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.3.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.3.1.1.1.tspan.1" dy="5" x="0">DGS3</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.3.1.1">
+              <rect id="plot_01.border.strip.3.1.1.1" x="224.75" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.1.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.4.1.1">
+            <polyline id="plot_01.ticks.top.panel.4.1.1.1" points="344.71,313.99 344.71,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.4.1.1.2" points="394.23,313.99 394.23,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.top.panel.4.1.1">
+            <g id="plot_01.ticklabels.top.panel.4.1.1.1" transform="translate(344.71, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.4.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.4.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.4.1.1.1.tspan.1" dy="0" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.top.panel.4.1.1.2" transform="translate(394.23, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.4.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.4.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.4.1.1.2.tspan.1" dy="0" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.4.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.4.1.1.1" points="344.71,53.01 344.71,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.4.1.1.2" points="394.23,53.01 394.23,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.2.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.4.panel.4.1.1">
+            <polyline id="plot_01.xyplot.lines.group.4.panel.4.1.1.1" points="320.15,114.71 320.28,114.71 320.42,114.12 320.55,112.94 320.96,112.35 321.1,112.94 321.23,110.58 321.37,111.76 321.5,109.41 322.05,108.82 322.18,110.58 322.32,113.53 322.45,115.89 322.86,117.07 322.99,116.48 323.13,109.99 323.27,107.64 323.4,106.46 323.81,105.28 323.94,104.1 324.08,104.69 324.22,104.1 324.35,108.23 324.76,107.05 324.89,110.58 325.03,110.58 325.17,112.94 325.3,109.99 325.71,112.35 325.84,109.99 325.98,109.99 326.12,113.53 326.25,114.12 326.79,116.48 326.93,114.12 327.07,114.12 327.2,114.71 327.61,111.76 327.74,111.76 327.88,113.53 328.02,114.71 328.15,111.76 328.56,113.53 328.69,111.17 328.83,112.35 328.97,114.71 329.1,115.3 329.51,116.48 329.64,120.6 329.78,128.86 329.92,127.68 330.05,128.86 330.46,132.98 330.59,134.16 330.73,130.03 330.87,128.86 331,127.09 331.41,126.5 331.54,123.55 331.68,124.14 331.81,121.78 331.95,123.55 332.36,122.96 332.49,127.09 332.63,124.14 332.76,121.78 332.9,114.71 333.31,115.3 333.44,112.35 333.58,114.71 333.71,115.3 333.85,112.94 334.26,112.35 334.39,114.12 334.53,112.94 334.66,111.76 334.8,112.94 335.21,111.17 335.34,112.94 335.48,112.94 335.61,111.17 335.75,110.58 336.16,110.58 336.29,111.76 336.43,110.58 336.56,110.58 336.7,108.23 337.11,108.82 337.24,107.64 337.38,107.64 337.51,108.82 337.65,106.46 338.06,105.28 338.19,105.87 338.33,106.46 338.46,105.87 338.6,106.46 339.01,106.46 339.14,108.23 339.28,105.87 339.41,107.64 339.55,107.05 340.09,107.05 340.23,102.92 340.36,101.74 340.5,98.8 340.91,102.33 341.04,102.33 341.18,105.28 341.31,104.69 341.45,104.1 341.86,102.92 341.99,106.46 342.13,104.1 342.26,105.28 342.4,102.33 342.81,102.92 342.94,104.1 343.08,105.87 343.21,105.28 343.35,107.05 343.76,104.69 343.89,106.46 344.03,105.28 344.16,102.92 344.3,104.69 344.71,101.74 344.84,102.92 345.11,102.33 345.25,99.98 345.66,99.39 345.79,99.39 345.93,99.98 346.06,99.39 346.2,99.39 346.61,97.62 346.74,98.8 346.88,97.62 347.01,98.8 347.15,97.03 347.55,95.85 347.69,95.85 347.83,95.26 347.96,96.44 348.1,100.56 348.5,98.21 348.64,97.62 348.78,99.39 348.91,98.21 349.05,101.74 349.45,100.56 349.59,104.1 349.73,105.28 349.86,105.87 350,104.1 350.4,104.1 350.54,106.46 350.68,109.41 350.81,111.17 350.95,109.99 351.35,109.41 351.49,109.41 351.63,104.1 351.76,104.1 351.9,104.69 352.3,103.51 352.44,102.92 352.58,102.92 352.71,101.15 352.85,97.03 353.39,98.8 353.53,98.8 353.66,102.33 353.8,99.98 354.2,101.15 354.34,101.74 354.48,103.51 354.61,100.56 354.75,104.69 355.15,105.28 355.29,104.1 355.42,103.51 355.56,103.51 355.7,102.33 356.1,102.33 356.24,101.15 356.37,99.39 356.51,99.98 356.65,98.8 357.05,98.8 357.19,98.21 357.32,98.21 357.46,99.39 357.6,101.74 358.14,101.74 358.27,101.15 358.41,101.74 358.55,101.74 358.95,101.74 359.09,103.51 359.22,108.23 359.36,108.82 359.5,107.64 359.9,108.82 360.04,107.64 360.17,107.05 360.31,110.58 360.45,107.05 360.85,105.87 361.12,104.69 361.26,105.28 361.4,105.28 361.8,103.51 361.94,106.46 362.07,101.74 362.21,100.56 362.35,100.56 362.89,99.39 363.02,99.39 363.16,98.8 363.29,98.8 363.7,99.98 363.84,101.74 363.97,102.92 364.24,103.51 364.65,102.33 364.79,101.15 364.92,99.98 365.06,99.39 365.19,98.21 365.6,99.39 365.74,99.39 365.87,98.21 366.01,97.62 366.14,99.39 366.55,98.8 366.69,99.98 366.82,101.15 366.96,103.51 367.09,103.51 367.5,105.87 367.64,108.23 367.77,107.64 367.91,107.64 368.04,106.46 368.45,107.64 368.72,107.05 368.86,104.69 368.99,104.69 369.4,104.69 369.67,107.05 369.81,109.99 369.94,110.58 370.35,110.58 370.49,108.82 370.62,107.64 370.76,109.41 370.89,108.23 371.3,108.23 371.44,106.46 371.57,106.46 371.71,108.82 371.84,107.64 372.39,107.05 372.52,107.05 372.66,108.23 372.79,113.53 373.2,114.71 373.34,115.3 373.47,114.12 373.61,114.12 373.74,114.12 374.15,112.35 374.29,114.12 374.42,111.76 374.56,111.17 374.69,111.76 375.1,112.35 375.24,114.12 375.37,116.48 375.51,112.94 375.64,113.53 376.19,114.71 376.32,114.12 376.46,112.94 376.59,111.76 377,108.23 377.14,108.23 377.27,108.23 377.41,107.64 377.54,106.46 377.95,107.05 378.09,107.64 378.22,109.99 378.36,112.35 378.49,115.3 378.9,115.3 379.04,114.12 379.17,114.71 379.31,114.12 379.44,111.76 379.85,109.99 379.98,108.82 380.12,109.99 380.26,109.99 380.39,109.41 380.8,109.41 380.93,108.82 381.07,107.05 381.21,107.64 381.75,107.05 381.88,108.23 382.02,105.28 382.16,102.92 382.29,102.33 382.7,104.1 382.83,103.51 382.97,105.87 383.11,105.87 383.24,103.51 383.65,102.92 383.78,104.1 383.92,104.1 384.06,104.1 384.19,104.69 384.6,103.51 384.73,104.1 384.87,103.51 385.01,104.1 385.14,102.33 385.55,102.33 385.68,102.33 385.82,100.56 385.96,100.56 386.09,105.28 386.5,105.87 386.63,106.46 386.77,106.46 386.91,106.46 387.04,110.58 387.45,111.17 387.58,112.35 387.72,111.76 387.85,108.82 387.99,111.76 388.4,112.35 388.53,111.76 388.67,115.89 388.8,115.89 388.94,115.3 389.48,122.37 389.62,122.37 389.75,121.78 389.89,124.14 390.3,122.96 390.43,124.14 390.57,122.37 390.7,121.78 390.84,127.09 391.25,128.86 391.38,128.27 391.52,130.03 391.65,127.68 391.79,123.55 392.2,124.73 392.33,125.32 392.47,135.34 392.6,139.46 392.74,145.95 393.15,149.48 393.28,150.07 393.42,147.72 393.55,143.59 393.69,145.36 394.1,144.18 394.23,143.59 394.37,145.95 394.64,156.56 395.05,151.25 395.18,150.66 395.32,153.02 395.45,144.77 395.59,146.54 396,144.77 396.13,143.59 396.27,140.64 396.4,141.82 396.54,139.46 396.95,140.05 397.08,140.64 397.22,144.77 397.35,143.59 397.49,142.41 397.9,143 398.03,144.18 398.17,143.59 398.3,150.07 398.44,142.41 398.85,144.18 398.98,144.18" stroke-dasharray="none" stroke="rgb(255,0,0)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.2">
+          <g id="plot_01.border.panel.4.1.1">
+            <rect id="plot_01.border.panel.4.1.1.1" x="314.63" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.4.1.1">
+              <rect id="plot_01.bg.strip.4.1.1.1" x="314.63" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.4.1.1">
+              <g id="plot_01.textr.strip.4.1.1.1" transform="translate(343.06, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.4.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.4.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.4.1.1.1.tspan.1" dy="5" x="0">DGS5</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.4.1.1">
+              <rect id="plot_01.border.strip.4.1.1.1" x="314.63" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.1.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.5.1.1">
+            <polyline id="plot_01.ticks.top.panel.5.1.1.1" points="434.58,313.99 434.58,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.5.1.1.2" points="484.11,313.99 484.11,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.5.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.5.1.1.1" points="434.58,53.01 434.58,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.5.1.1.2" points="484.11,53.01 484.11,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.5.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.5.1.1.1" transform="translate(434.58, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.5.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.5.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.5.1.1.1.tspan.1" dy="8" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.5.1.1.2" transform="translate(484.11, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.5.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.5.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.5.1.1.2.tspan.1" dy="8" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.2.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.5.panel.5.1.1">
+            <polyline id="plot_01.xyplot.lines.group.5.panel.5.1.1.1" points="410.02,145.36 410.15,146.54 410.29,146.54 410.43,144.77 410.83,144.18 410.97,145.36 411.1,141.23 411.24,143 411.38,140.05 411.92,139.46 412.05,141.23 412.19,146.54 412.33,148.89 412.73,151.25 412.87,150.07 413,144.77 413.14,141.23 413.28,139.46 413.68,137.11 413.82,135.34 413.95,137.11 414.09,135.93 414.22,141.82 414.63,140.05 414.77,144.18 414.9,144.18 415.04,146.54 415.17,142.41 415.58,144.77 415.72,141.23 415.85,141.23 415.99,145.36 416.12,146.54 416.67,148.89 416.8,145.36 416.94,144.77 417.07,145.36 417.48,141.82 417.62,142.41 417.75,144.18 417.89,147.13 418.02,143.59 418.43,144.77 418.57,141.82 418.7,143 418.84,145.36 418.97,146.54 419.38,146.54 419.52,151.84 419.65,161.86 419.79,160.68 419.92,162.45 420.33,166.58 420.47,167.16 420.6,163.04 420.74,161.86 420.87,160.09 421.28,159.5 421.42,155.97 421.55,156.56 421.69,154.79 421.82,157.15 422.23,156.56 422.37,161.27 422.5,157.73 422.64,154.2 422.77,145.95 423.18,145.95 423.32,143 423.45,145.36 423.59,147.13 423.72,144.18 424.13,143 424.27,144.77 424.4,143.59 424.54,143 424.67,143.59 425.08,141.23 425.22,143 425.35,143.59 425.49,142.41 425.62,141.23 426.03,140.64 426.17,141.82 426.3,140.64 426.44,141.23 426.57,137.7 426.98,138.29 427.12,136.52 427.25,136.52 427.39,137.7 427.52,135.34 427.93,132.98 428.07,132.39 428.2,132.39 428.34,130.62 428.47,130.62 428.88,131.8 429.02,132.98 429.15,130.03 429.29,132.98 429.42,131.21 429.96,131.21 430.1,124.73 430.24,122.96 430.37,117.07 430.78,121.78 430.91,123.55 431.05,127.68 431.19,127.09 431.32,126.5 431.73,124.14 431.86,128.27 432,124.73 432.14,127.09 432.27,124.73 432.68,124.73 432.81,126.5 432.95,128.27 433.09,127.09 433.22,130.03 433.63,127.09 433.76,128.27 433.9,127.09 434.04,124.73 434.17,127.68 434.58,123.55 434.71,125.91 434.99,124.14 435.12,121.78 435.53,120.01 435.66,120.01 435.8,120.6 435.94,120.01 436.07,120.6 436.48,119.42 436.61,120.6 436.75,119.42 436.89,120.6 437.02,118.25 437.43,117.07 437.56,115.89 437.7,115.89 437.84,117.66 437.97,123.55 438.38,120.6 438.51,120.01 438.65,122.96 438.78,120.01 438.92,125.32 439.33,124.14 439.46,128.86 439.6,129.44 439.73,130.03 439.87,127.68 440.28,128.27 440.41,131.8 440.55,135.93 440.68,137.7 440.82,137.11 441.23,136.52 441.36,135.93 441.5,130.62 441.63,128.86 441.77,129.44 442.18,127.68 442.31,127.09 442.45,127.68 442.58,125.91 442.72,121.78 443.26,122.96 443.4,123.55 443.53,128.27 443.67,126.5 444.08,127.09 444.21,128.27 444.35,131.21 444.48,128.27 444.62,134.75 445.03,134.16 445.16,132.39 445.3,131.8 445.43,131.8 445.57,129.44 445.98,128.27 446.11,125.91 446.25,122.96 446.38,124.14 446.52,123.55 446.93,123.55 447.06,122.96 447.2,122.37 447.33,125.32 447.47,128.27 448.01,127.68 448.15,126.5 448.28,126.5 448.42,126.5 448.83,126.5 448.96,130.03 449.1,135.34 449.23,136.52 449.37,133.57 449.78,135.93 449.91,133.57 450.05,133.57 450.18,137.7 450.32,132.98 450.73,130.62 451,129.44 451.13,130.62 451.27,130.62 451.68,128.86 451.81,132.39 451.95,125.91 452.08,123.55 452.22,123.55 452.76,122.37 452.9,122.96 453.03,122.37 453.17,121.78 453.58,123.55 453.71,126.5 453.85,127.68 454.12,128.27 454.52,126.5 454.66,125.32 454.8,124.14 454.93,123.55 455.07,123.55 455.47,124.14 455.61,123.55 455.75,122.37 455.88,121.19 456.02,123.55 456.42,123.55 456.56,124.73 456.7,127.68 456.83,130.03 456.97,130.03 457.37,132.98 457.51,135.93 457.65,135.34 457.78,135.34 457.92,132.98 458.32,134.16 458.6,132.98 458.73,130.03 458.87,130.03 459.27,131.8 459.55,135.93 459.68,139.46 459.82,140.05 460.22,139.46 460.36,137.7 460.5,137.11 460.63,138.87 460.77,137.7 461.17,137.11 461.31,135.34 461.45,134.75 461.58,138.29 461.72,136.52 462.26,135.93 462.39,135.34 462.53,136.52 462.67,142.41 463.07,143.59 463.21,144.77 463.34,144.18 463.48,143.59 463.62,144.77 464.02,142.41 464.16,144.18 464.29,141.82 464.43,141.23 464.57,141.23 464.97,141.82 465.11,143.59 465.24,146.54 465.38,143 465.52,143.59 466.06,145.36 466.19,143.59 466.33,142.41 466.47,141.23 466.87,135.93 467.01,135.93 467.14,137.7 467.28,136.52 467.42,134.75 467.82,135.93 467.96,137.11 468.09,139.46 468.23,142.41 468.37,146.54 468.77,146.54 468.91,144.77 469.04,145.36 469.18,144.77 469.32,141.82 469.72,139.46 469.86,137.7 469.99,140.05 470.13,138.87 470.26,138.29 470.67,137.7 470.81,137.11 470.94,134.16 471.08,135.34 471.62,134.75 471.76,136.52 471.89,132.98 472.03,130.03 472.16,128.27 472.57,130.03 472.71,130.62 472.84,133.57 472.98,132.98 473.11,129.44 473.52,128.27 473.66,130.03 473.79,128.86 473.93,128.86 474.06,129.44 474.47,128.86 474.61,129.44 474.74,128.86 474.88,130.03 475.01,127.09 475.42,127.09 475.56,127.68 475.69,125.32 475.83,125.32 475.96,131.21 476.37,132.39 476.51,133.57 476.64,132.98 476.78,132.98 476.91,137.7 477.32,138.87 477.46,140.64 477.59,140.05 477.73,135.93 477.86,140.05 478.27,140.64 478.41,139.46 478.54,144.77 478.68,144.77 478.81,144.18 479.36,152.43 479.49,151.25 479.63,151.25 479.76,153.61 480.17,152.43 480.31,153.61 480.44,151.84 480.58,150.07 480.71,155.97 481.12,157.73 481.26,157.15 481.39,158.91 481.53,156.56 481.66,152.43 482.07,154.79 482.21,155.38 482.34,165.99 482.48,170.7 482.61,177.18 483.02,181.31 483.16,181.9 483.29,178.95 483.43,174.83 483.56,177.77 483.97,176.01 484.11,175.42 484.24,178.36 484.51,191.33 484.92,186.61 485.06,184.85 485.19,187.2 485.33,179.54 485.46,180.13 485.87,178.36 486.01,177.18 486.14,174.83 486.28,177.18 486.41,174.24 486.82,174.24 486.95,175.42 487.09,180.13 487.23,180.13 487.36,178.95 487.77,180.13 487.9,181.31 488.04,180.13 488.18,188.97 488.31,180.72 488.72,182.49 488.85,182.49" stroke-dasharray="none" stroke="rgb(255,165,0)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.2">
+          <g id="plot_01.border.panel.5.1.1">
+            <rect id="plot_01.border.panel.5.1.1.1" x="404.5" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.5.1.1">
+              <rect id="plot_01.bg.strip.5.1.1.1" x="404.5" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.5.1.1">
+              <g id="plot_01.textr.strip.5.1.1.1" transform="translate(432.94, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.5.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.5.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.5.1.1.1.tspan.1" dy="5" x="0">DGS7</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.5.1.1">
+              <rect id="plot_01.border.strip.5.1.1.1" x="404.5" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.1.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.6.1.1">
+            <polyline id="plot_01.ticks.top.panel.6.1.1.1" points="524.45,313.99 524.45,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.6.1.1.2" points="573.98,313.99 573.98,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.top.panel.6.1.1">
+            <g id="plot_01.ticklabels.top.panel.6.1.1.1" transform="translate(524.45, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.6.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.6.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.6.1.1.1.tspan.1" dy="0" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.top.panel.6.1.1.2" transform="translate(573.98, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.6.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.6.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.6.1.1.2.tspan.1" dy="0" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.6.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.6.1.1.1" points="524.45,53.01 524.45,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.6.1.1.2" points="573.98,53.01 573.98,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.2.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.6.panel.6.1.1">
+            <polyline id="plot_01.xyplot.lines.group.6.panel.6.1.1.1" points="499.89,178.36 500.03,180.13 500.16,181.31 500.3,178.95 500.71,178.95 500.84,180.13 500.98,176.01 501.11,176.59 501.25,173.65 501.79,172.47 501.93,175.42 502.06,180.72 502.2,183.08 502.61,185.44 502.74,184.85 502.88,180.72 503.01,177.77 503.15,176.01 503.56,172.47 503.69,170.11 503.83,172.47 503.96,171.88 504.1,178.36 504.51,176.01 504.64,180.13 504.78,180.72 504.91,182.49 505.05,177.77 505.45,179.54 505.59,175.42 505.73,176.01 505.86,179.54 506,180.72 506.54,183.08 506.68,180.72 506.81,179.54 506.95,178.95 507.35,175.42 507.49,176.59 507.63,178.95 507.76,181.9 507.9,179.54 508.3,180.13 508.44,177.77 508.58,178.95 508.71,181.9 508.85,182.49 509.25,182.49 509.39,188.38 509.53,197.22 509.66,197.22 509.8,198.4 510.2,203.12 510.34,202.53 510.48,198.4 510.61,197.22 510.75,194.87 511.15,195.45 511.29,191.92 511.43,192.51 511.56,190.74 511.7,193.69 512.1,193.1 512.24,197.81 512.38,194.87 512.51,191.33 512.65,184.26 513.05,183.67 513.19,180.72 513.32,183.08 513.46,184.85 513.6,181.31 514,180.13 514.14,181.9 514.27,180.13 514.41,178.95 514.55,179.54 514.95,177.77 515.09,180.13 515.22,180.72 515.36,178.95 515.5,177.77 515.9,177.18 516.04,178.95 516.17,177.77 516.31,177.77 516.45,174.83 516.85,175.42 516.99,173.06 517.12,172.47 517.26,173.65 517.4,170.7 517.8,167.16 517.94,165.99 518.07,165.99 518.21,162.45 518.35,163.04 518.75,165.4 518.89,167.75 519.02,164.22 519.16,166.58 519.3,165.4 519.84,164.81 519.97,158.32 520.11,155.97 520.25,148.89 520.65,152.43 520.79,154.79 520.92,160.09 521.06,160.09 521.19,159.5 521.6,156.56 521.74,160.68 521.87,157.15 522.01,158.91 522.14,156.56 522.55,155.97 522.69,158.91 522.82,159.5 522.96,158.32 523.09,161.86 523.5,158.32 523.64,160.09 523.77,159.5 523.91,156.56 524.04,160.68 524.45,157.15 524.59,159.5 524.86,157.73 524.99,154.79 525.4,152.43 525.54,152.43 525.67,153.02 525.81,150.66 525.94,151.84 526.35,150.66 526.49,152.43 526.62,151.84 526.76,153.02 526.89,150.07 527.3,148.89 527.44,147.13 527.57,146.54 527.71,147.72 527.84,155.38 528.25,152.43 528.39,151.25 528.52,154.2 528.66,151.25 528.79,156.56 529.2,155.97 529.34,160.09 529.47,161.27 529.61,161.86 529.74,159.5 530.15,159.5 530.29,164.22 530.42,168.34 530.56,170.11 530.69,168.93 531.1,169.52 531.24,168.34 531.37,163.04 531.51,161.27 531.64,161.27 532.05,159.5 532.19,158.91 532.32,160.09 532.46,158.32 532.59,154.79 533.14,155.97 533.27,156.56 533.41,161.27 533.54,160.68 533.95,161.27 534.09,162.45 534.22,166.58 534.36,165.4 534.49,173.06 534.9,171.29 535.04,169.52 535.17,167.75 535.31,168.34 535.44,166.58 535.85,164.81 535.99,162.45 536.12,158.91 536.26,160.09 536.39,159.5 536.8,158.91 536.93,158.91 537.07,158.91 537.21,162.45 537.34,165.4 537.88,164.81 538.02,163.63 538.16,162.45 538.29,161.86 538.7,162.45 538.83,165.4 538.97,170.11 539.11,171.88 539.24,167.75 539.65,170.11 539.78,167.75 539.92,168.34 540.06,171.88 540.19,167.16 540.6,164.81 540.87,163.63 541.01,165.4 541.14,165.4 541.55,163.63 541.68,167.16 541.82,161.27 541.96,157.73 542.09,157.15 542.63,155.97 542.77,155.97 542.91,155.38 543.04,155.38 543.45,157.15 543.58,160.09 543.72,161.86 543.99,162.45 544.4,160.09 544.53,158.91 544.67,158.32 544.8,157.73 544.94,157.73 545.35,158.32 545.48,157.73 545.62,156.56 545.75,155.97 545.89,158.91 546.3,158.32 546.43,160.09 546.57,163.63 546.7,164.81 546.84,163.63 547.25,167.16 547.38,170.7 547.52,169.52 547.65,168.93 547.79,166.58 548.2,167.75 548.47,166.58 548.6,164.81 548.74,164.22 549.15,167.16 549.42,171.88 549.55,175.42 549.69,176.01 550.1,175.42 550.23,173.65 550.37,173.06 550.5,174.83 550.64,173.65 551.05,173.65 551.18,171.88 551.32,170.7 551.45,173.65 551.59,172.47 552.13,171.88 552.27,171.88 552.4,173.06 552.54,178.95 552.95,180.13 553.08,181.9 553.22,181.9 553.35,181.31 553.49,182.49 553.9,180.13 554.03,182.49 554.17,180.13 554.3,179.54 554.44,179.54 554.85,179.54 554.98,181.31 555.12,183.08 555.25,180.13 555.39,180.72 555.93,181.9 556.07,181.31 556.2,179.54 556.34,178.36 556.75,173.06 556.88,173.06 557.02,174.83 557.15,173.65 557.29,171.88 557.7,173.06 557.83,174.24 557.97,177.18 558.1,180.13 558.24,183.67 558.65,184.26 558.78,181.9 558.92,182.49 559.05,182.49 559.19,180.72 559.6,177.77 559.73,175.42 559.87,177.77 560,177.18 560.14,176.01 560.55,176.01 560.68,175.42 560.82,172.47 560.95,172.47 561.49,171.88 561.63,173.06 561.77,170.11 561.9,167.16 562.04,163.63 562.44,165.99 562.58,167.16 562.72,170.7 562.85,169.52 562.99,165.4 563.39,163.63 563.53,165.4 563.67,164.22 563.8,163.63 563.94,164.22 564.34,163.63 564.48,164.81 564.62,164.22 564.75,164.81 564.89,162.45 565.29,162.45 565.43,162.45 565.57,160.09 565.7,160.09 565.84,167.16 566.24,168.34 566.38,169.52 566.52,168.93 566.65,168.93 566.79,174.24 567.19,175.42 567.33,177.77 567.47,176.59 567.6,172.47 567.74,177.18 568.14,178.36 568.28,176.59 568.42,181.9 568.55,181.31 568.69,180.72 569.23,188.97 569.36,187.79 569.5,187.79 569.64,189.56 570.04,187.79 570.18,188.38 570.31,186.02 570.45,184.85 570.59,190.15 570.99,193.1 571.13,191.92 571.26,194.87 571.4,191.33 571.54,188.38 571.94,191.33 572.08,191.92 572.21,199.58 572.35,204.3 572.49,210.78 572.89,213.73 573.03,215.49 573.16,212.55 573.3,209.01 573.44,210.78 573.84,209.6 573.98,208.42 574.11,210.78 574.39,223.16 574.79,218.44 574.93,218.44 575.06,221.39 575.2,215.49 575.34,216.08 575.74,213.73 575.88,212.55 576.01,210.78 576.15,213.14 576.29,209.6 576.69,209.6 576.83,211.37 576.96,216.08 577.1,216.08 577.23,214.31 577.64,216.08 577.78,217.26 577.91,215.49 578.05,223.74 578.18,217.26 578.59,219.62 578.73,219.62" stroke-dasharray="none" stroke="rgb(0,255,0)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.2">
+          <g id="plot_01.border.panel.6.1.1">
+            <rect id="plot_01.border.panel.6.1.1.1" x="494.37" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.6.1.1">
+              <rect id="plot_01.bg.strip.6.1.1.1" x="494.37" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.6.1.1">
+              <g id="plot_01.textr.strip.6.1.1.1" transform="translate(519.31, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.6.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.6.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.6.1.1.1.tspan.1" dy="5" x="0">DGS10</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.6.1.1">
+              <rect id="plot_01.border.strip.6.1.1.1" x="494.37" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.1.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.7.1.1">
+            <polyline id="plot_01.ticks.top.panel.7.1.1.1" points="614.32,313.99 614.32,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.7.1.1.2" points="663.85,313.99 663.85,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.7.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.7.1.1.1" points="614.32,53.01 614.32,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.7.1.1.2" points="663.85,53.01 663.85,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.bottom.panel.7.1.1">
+            <g id="plot_01.ticklabels.bottom.panel.7.1.1.1" transform="translate(614.32, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.7.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.7.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.7.1.1.1.tspan.1" dy="8" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.bottom.panel.7.1.1.2" transform="translate(663.85, 41.67)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.bottom.panel.7.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.bottom.panel.7.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.bottom.panel.7.1.1.2.tspan.1" dy="8" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.2.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.7.panel.7.1.1">
+            <polyline id="plot_01.xyplot.lines.group.7.panel.7.1.1.1" points="589.76,219.62 589.9,221.98 590.04,223.74 590.17,221.39 590.58,221.39 590.71,221.98 590.85,217.26 590.99,218.44 591.12,214.9 591.66,213.73 591.8,217.26 591.94,222.57 592.07,226.1 592.48,228.46 592.61,228.46 592.75,226.1 592.89,223.74 593.02,221.98 593.43,217.85 593.56,214.9 593.7,218.44 593.84,217.85 593.97,224.92 594.38,221.98 594.51,226.1 594.65,226.1 594.79,229.05 594.92,224.33 595.33,226.1 595.46,221.39 595.6,222.57 595.73,226.1 595.87,227.28 596.41,229.64 596.55,226.69 596.68,225.51 596.82,224.33 597.23,220.8 597.36,221.98 597.5,223.16 597.63,227.28 597.77,225.51 598.18,226.1 598.31,223.16 598.45,224.92 598.58,228.46 598.72,229.05 599.13,228.46 599.26,234.35 599.4,243.78 599.53,243.78 599.67,243.78 600.08,247.32 600.21,246.73 600.35,242.61 600.48,241.43 600.62,238.48 601.03,239.07 601.16,236.71 601.3,237.3 601.43,234.94 601.57,239.07 601.98,239.07 602.11,243.19 602.25,240.25 602.38,237.3 602.52,230.23 602.93,228.46 603.06,225.51 603.2,228.46 603.33,230.23 603.47,225.51 603.88,224.33 604.01,226.69 604.15,224.92 604.28,223.74 604.42,224.33 604.83,221.98 604.96,224.33 605.1,224.92 605.23,223.74 605.37,223.16 605.78,223.16 605.91,224.92 606.05,222.57 606.18,222.57 606.32,219.62 606.73,219.62 606.86,217.26 607,217.26 607.13,217.85 607.27,214.9 607.68,211.37 607.81,209.6 607.95,208.42 608.08,203.12 608.22,203.71 608.63,204.88 608.76,208.42 608.9,204.3 609.03,207.24 609.17,206.06 609.71,206.06 609.85,198.99 609.98,196.04 610.12,187.79 610.53,190.15 610.66,193.69 610.8,200.17 610.93,200.76 611.07,201.35 611.48,197.81 611.61,201.94 611.75,197.81 611.88,199.58 612.02,197.81 612.42,196.63 612.56,199.58 612.7,200.17 612.83,197.81 612.97,201.94 613.37,198.4 613.51,200.17 613.65,198.99 613.78,196.63 613.92,202.53 614.32,197.81 614.46,201.35 614.73,200.17 614.87,196.63 615.27,194.28 615.41,193.1 615.55,193.1 615.68,190.74 615.82,191.92 616.22,190.74 616.36,193.1 616.5,192.51 616.63,194.28 616.77,190.15 617.17,188.97 617.31,186.61 617.45,186.61 617.58,187.79 617.72,196.04 618.12,193.1 618.26,192.51 618.4,194.87 618.53,191.92 618.67,197.81 619.07,197.22 619.21,201.94 619.35,203.12 619.48,203.71 619.62,201.94 620.02,201.94 620.16,206.65 620.29,211.37 620.43,213.73 620.57,212.55 620.97,212.55 621.11,211.37 621.24,206.06 621.38,204.3 621.52,204.3 621.92,202.53 622.06,201.35 622.19,202.53 622.33,201.35 622.47,197.22 623.01,197.81 623.14,198.99 623.28,204.3 623.42,204.88 623.82,205.47 623.96,206.06 624.09,210.78 624.23,211.37 624.37,220.21 624.77,217.85 624.91,216.08 625.04,214.31 625.18,214.31 625.32,213.73 625.72,211.37 625.86,207.83 625.99,203.71 626.13,205.47 626.27,204.88 626.67,204.3 626.81,204.3 626.94,204.88 627.08,208.42 627.22,212.55 627.76,210.78 627.89,208.42 628.03,206.65 628.16,206.06 628.57,206.65 628.71,210.19 628.84,215.49 628.98,217.26 629.11,212.55 629.52,213.73 629.66,211.37 629.79,212.55 629.93,215.49 630.06,211.37 630.47,208.42 630.74,207.24 630.88,209.6 631.01,210.19 631.42,207.83 631.56,210.78 631.69,204.88 631.83,200.76 631.96,200.17 632.51,198.4 632.64,198.4 632.78,197.81 632.91,198.4 633.32,200.17 633.46,203.71 633.59,204.88 633.86,204.88 634.27,203.12 634.41,202.53 634.54,201.35 634.68,201.94 634.81,201.94 635.22,201.94 635.36,201.35 635.49,200.76 635.63,199.58 635.76,203.12 636.17,202.53 636.31,204.3 636.44,208.42 636.58,209.01 636.71,207.24 637.12,211.37 637.26,214.9 637.39,214.31 637.53,213.73 637.66,210.78 638.07,211.37 638.34,210.78 638.48,208.42 638.61,207.83 639.02,211.96 639.29,217.26 639.43,221.39 639.56,221.39 639.97,221.39 640.11,219.03 640.24,218.44 640.38,220.21 640.51,218.44 640.92,218.44 641.06,216.67 641.19,216.08 641.33,219.03 641.46,217.26 642.01,216.67 642.14,216.67 642.28,217.85 642.41,224.33 642.82,224.92 642.96,226.69 643.09,227.28 643.23,226.69 643.36,229.05 643.77,226.69 643.9,229.05 644.04,226.69 644.18,226.1 644.31,226.69 644.72,226.1 644.85,227.87 644.99,230.82 645.13,226.69 645.26,227.28 645.8,229.05 645.94,228.46 646.08,226.69 646.21,225.51 646.62,220.8 646.75,220.8 646.89,222.57 647.03,221.98 647.16,220.21 647.57,221.39 647.7,222.57 647.84,225.51 647.98,228.46 648.11,232.59 648.52,232.59 648.65,230.23 648.79,230.23 648.93,231.41 649.06,230.23 649.47,226.69 649.6,224.33 649.74,227.28 649.88,225.51 650.01,224.33 650.42,224.92 650.55,224.33 650.69,221.98 650.83,221.98 651.37,221.39 651.5,222.57 651.64,219.03 651.77,215.49 651.91,209.6 652.32,211.96 652.45,213.73 652.59,217.26 652.72,216.67 652.86,211.96 653.27,209.6 653.4,211.37 653.54,210.19 653.67,209.01 653.81,209.6 654.22,209.6 654.35,210.78 654.49,209.6 654.62,210.78 654.76,207.83 655.17,209.01 655.3,209.01 655.44,206.06 655.57,206.06 655.71,214.31 656.12,215.49 656.25,216.67 656.39,216.08 656.52,215.49 656.66,221.39 657.07,223.16 657.2,225.51 657.34,224.92 657.47,220.8 657.61,225.51 658.02,226.69 658.15,224.33 658.29,229.05 658.42,228.46 658.56,227.28 659.1,236.12 659.24,233.76 659.37,234.35 659.51,236.12 659.92,234.35 660.05,236.12 660.19,233.18 660.32,232.59 660.46,237.89 660.87,240.84 661,239.07 661.14,241.43 661.27,238.48 661.41,236.12 661.82,239.66 661.95,239.07 662.09,244.37 662.22,249.68 662.36,254.39 662.77,254.98 662.9,257.34 663.04,254.98 663.17,252.04 663.31,252.04 663.72,250.27 663.85,249.68 663.99,252.04 664.26,263.23 664.67,259.7 664.8,260.29 664.94,262.64 665.07,258.52 665.21,259.11 665.62,256.75 665.75,255.57 665.89,254.98 666.02,257.93 666.16,253.8 666.57,253.8 666.7,254.98 666.84,259.11 666.97,259.11 667.11,257.34 667.52,259.7 667.65,260.29 667.79,259.11 667.92,267.36 668.06,262.05 668.46,263.82 668.6,263.82" stroke-dasharray="none" stroke="rgb(165,42,42)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.2">
+          <g id="plot_01.border.panel.7.1.1">
+            <rect id="plot_01.border.panel.7.1.1.1" x="584.25" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.7.1.1">
+              <rect id="plot_01.bg.strip.7.1.1.1" x="584.25" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.7.1.1">
+              <g id="plot_01.textr.strip.7.1.1.1" transform="translate(609.18, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.7.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.7.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.7.1.1.1.tspan.1" dy="5" x="0">DGS20</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.7.1.1">
+              <rect id="plot_01.border.strip.7.1.1.1" x="584.25" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.1.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.1" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.1.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.1">
+          <g id="plot_01.ticks.top.panel.8.1.1">
+            <polyline id="plot_01.ticks.top.panel.8.1.1.1" points="704.2,313.99 704.2,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.top.panel.8.1.1.2" points="753.72,313.99 753.72,319.66" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticklabels.top.panel.8.1.1">
+            <g id="plot_01.ticklabels.top.panel.8.1.1.1" transform="translate(704.2, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.8.1.1.1.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.8.1.1.1.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.8.1.1.1.tspan.1" dy="0" x="0">Jul 2012</tspan>
+                </text>
+              </g>
+            </g>
+            <g id="plot_01.ticklabels.top.panel.8.1.1.2" transform="translate(753.72, 325.33)" stroke-width="0.1">
+              <g id="plot_01.ticklabels.top.panel.8.1.1.2.scale" transform="scale(1, -1)">
+                <text x="0" y="0" id="plot_01.ticklabels.top.panel.8.1.1.2.text" text-anchor="middle" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="9.6" font-weight="normal" font-style="normal">
+                  <tspan id="plot_01.ticklabels.top.panel.8.1.1.2.tspan.1" dy="0" x="0">Jul 2013</tspan>
+                </text>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.1"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.1">
+          <g id="plot_01.ticks.bottom.panel.8.1.1">
+            <polyline id="plot_01.ticks.bottom.panel.8.1.1.1" points="704.2,53.01 704.2,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.bottom.panel.8.1.1.2" points="753.72,53.01 753.72,47.34" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+          <g id="plot_01.ticks.right.panel.8.1.1">
+            <polyline id="plot_01.ticks.right.panel.8.1.1.1" points="763.99,62.26 769.66,62.26" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.8.1.1.2" points="763.99,121.19 769.66,121.19" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.8.1.1.3" points="763.99,180.13 769.66,180.13" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.8.1.1.4" points="763.99,239.07 769.66,239.07" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+            <polyline id="plot_01.ticks.right.panel.8.1.1.5" points="763.99,298.01 769.66,298.01" stroke="rgb(0,0,0)" opacity="1" stroke-dasharray="none" stroke-width="0.75" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.2.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.2" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.2.clipPath)">
+          <g id="plot_01.xyplot.lines.group.8.panel.8.1.1">
+            <polyline id="plot_01.xyplot.lines.group.8.panel.8.1.1.1" points="679.64,237.89 679.77,240.84 679.91,242.61 680.04,240.25 680.45,240.25 680.59,241.43 680.72,236.71 680.86,237.3 680.99,233.76 681.54,232.59 681.67,236.71 681.81,242.02 681.94,244.96 682.35,247.91 682.49,247.91 682.62,246.73 682.76,244.96 682.89,243.19 683.3,238.48 683.44,235.53 683.57,239.66 683.71,239.66 683.84,246.73 684.25,243.78 684.39,247.32 684.52,247.32 684.66,250.86 684.79,245.55 685.2,247.32 685.34,242.61 685.47,244.37 685.61,247.32 685.74,248.5 686.29,250.86 686.42,247.91 686.56,246.73 686.69,244.96 687.1,241.43 687.24,243.19 687.37,243.78 687.51,247.91 687.64,245.55 688.05,246.73 688.19,243.78 688.32,246.14 688.46,249.68 688.59,250.27 689,249.09 689.14,254.39 689.27,264.41 689.41,263.23 689.54,263.23 689.95,267.36 690.09,266.18 690.22,261.47 690.36,260.88 690.49,257.34 690.9,258.52 691.04,256.16 691.17,257.34 691.31,254.98 691.44,259.7 691.85,259.7 691.99,263.23 692.12,260.88 692.26,257.93 692.39,251.45 692.8,249.68 692.94,246.73 693.07,249.68 693.21,252.04 693.34,247.32 693.75,246.14 693.89,247.91 694.02,246.73 694.16,246.14 694.29,246.14 694.7,243.78 694.83,246.14 694.97,247.91 695.11,246.73 695.24,246.14 695.65,246.14 695.78,248.5 695.92,245.55 696.06,246.14 696.19,243.19 696.6,243.19 696.73,240.84 696.87,240.84 697.01,243.19 697.14,240.25 697.55,236.12 697.68,233.76 697.82,233.18 697.96,227.28 698.09,227.28 698.5,227.28 698.63,232 698.77,227.87 698.91,230.82 699.04,230.23 699.58,230.23 699.72,222.57 699.86,219.62 699.99,211.37 700.4,213.14 700.53,217.26 700.67,223.16 700.81,224.33 700.94,225.51 701.35,221.98 701.48,225.51 701.62,221.39 701.76,223.16 701.89,221.39 702.3,219.62 702.43,223.16 702.57,222.57 702.7,220.21 702.84,224.33 703.25,220.8 703.38,221.98 703.52,221.39 703.65,219.62 703.79,224.92 704.2,220.8 704.33,223.74 704.6,222.57 704.74,219.03 705.15,216.67 705.28,215.49 705.42,215.49 705.55,213.73 705.69,214.31 706.1,213.14 706.23,214.9 706.37,214.9 706.5,216.08 706.64,212.55 707.05,210.78 707.18,207.83 707.32,207.24 707.45,209.01 707.59,217.26 708,214.31 708.13,213.14 708.27,215.49 708.4,212.55 708.54,218.44 708.95,218.44 709.08,222.57 709.22,224.33 709.35,226.1 709.49,223.74 709.9,223.74 710.03,228.46 710.17,233.18 710.3,236.71 710.44,234.94 710.85,234.94 710.98,233.18 711.12,228.46 711.25,226.69 711.39,226.69 711.8,224.92 711.93,224.33 712.07,225.51 712.2,224.33 712.34,220.21 712.88,220.8 713.02,221.39 713.15,227.28 713.29,227.87 713.7,229.05 713.83,229.64 713.97,234.35 714.1,236.12 714.24,244.37 714.65,240.84 714.78,239.07 714.92,237.3 715.05,236.71 715.19,236.12 715.6,233.76 715.73,230.82 715.87,226.69 716,229.05 716.14,228.46 716.55,227.87 716.68,227.87 716.82,228.46 716.95,232.59 717.09,236.71 717.63,234.94 717.77,232.59 717.9,230.82 718.04,229.05 718.45,230.23 718.58,233.76 718.72,237.89 718.85,240.25 718.99,235.53 719.39,236.12 719.53,233.76 719.67,234.94 719.8,237.89 719.94,234.35 720.34,231.41 720.62,230.23 720.75,232.59 720.89,233.76 721.29,232 721.43,234.35 721.57,229.05 721.7,225.51 721.84,224.33 722.38,222.57 722.52,223.16 722.65,222.57 722.79,223.16 723.19,224.92 723.33,228.46 723.47,229.05 723.74,229.05 724.14,227.28 724.28,226.69 724.42,226.69 724.55,226.69 724.69,227.87 725.09,227.28 725.23,226.1 725.37,226.1 725.5,224.92 725.64,227.87 726.04,227.28 726.18,229.05 726.32,233.18 726.45,233.18 726.59,231.41 726.99,235.53 727.13,239.07 727.26,238.48 727.4,237.89 727.54,234.94 727.94,235.53 728.21,235.53 728.35,232.59 728.49,232 728.89,236.12 729.16,241.43 729.3,246.14 729.44,244.96 729.84,244.96 729.98,242.61 730.11,242.61 730.25,243.78 730.39,242.02 730.79,242.02 730.93,240.25 731.06,239.66 731.2,242.61 731.34,240.84 731.88,240.25 732.01,240.25 732.15,241.43 732.29,247.32 732.69,247.91 732.83,249.68 732.96,250.27 733.1,249.09 733.24,251.45 733.64,249.09 733.78,251.45 733.91,249.68 734.05,249.09 734.19,249.09 734.59,248.5 734.73,250.27 734.86,252.62 735,249.09 735.13,249.68 735.68,251.45 735.81,250.86 735.95,249.09 736.08,247.91 736.49,243.78 736.63,243.78 736.76,245.55 736.9,244.96 737.03,242.61 737.44,243.78 737.58,244.96 737.71,247.91 737.85,250.86 737.98,253.8 738.39,254.39 738.53,252.04 738.66,252.04 738.8,253.8 738.93,252.04 739.34,249.68 739.48,246.73 739.61,250.27 739.75,247.91 739.88,246.73 740.29,247.32 740.43,246.73 740.56,244.37 740.7,244.96 741.24,243.78 741.38,244.96 741.51,242.02 741.65,238.48 741.78,231.41 742.19,233.76 742.33,235.53 742.46,239.66 742.6,239.66 742.73,234.35 743.14,232 743.28,233.76 743.41,232.59 743.55,231.41 743.68,232 744.09,232 744.23,233.18 744.36,232.59 744.5,233.76 744.63,231.41 745.04,232 745.18,232 745.31,229.05 745.45,228.46 745.58,236.71 745.99,237.89 746.13,239.07 746.26,238.48 746.4,239.66 746.53,244.96 746.94,246.73 747.08,249.09 747.21,248.5 747.35,244.37 747.48,249.09 747.89,249.68 748.03,247.32 748.16,251.45 748.3,250.86 748.43,249.68 748.98,257.34 749.11,254.98 749.25,255.57 749.38,256.75 749.79,254.98 749.93,256.75 750.06,253.8 750.2,252.62 750.33,258.52 750.74,260.29 750.87,258.52 751.01,260.88 751.15,258.52 751.28,255.57 751.69,259.7 751.82,259.11 751.96,263.23 752.1,267.95 752.23,272.07 752.64,272.07 752.77,274.43 752.91,273.25 753.05,270.9 753.18,269.72 753.59,267.36 753.72,266.77 753.86,267.95 754.13,279.15 754.54,276.2 754.67,276.79 754.81,279.15 754.95,276.79 755.08,276.79 755.49,275.02 755.62,273.25 755.76,272.66 755.9,276.2 756.03,272.07 756.44,271.48 756.57,273.25 756.71,277.38 756.85,277.38 756.98,275.02 757.39,277.97 757.52,278.56 757.66,276.79 757.8,284.45 757.93,279.74 758.34,282.09 758.47,282.09" stroke-dasharray="none" stroke="rgb(0,128,255)" stroke-width="0.75" opacity="1" stroke-opacity="1" fill="none"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.2">
+          <g id="plot_01.border.panel.8.1.1">
+            <rect id="plot_01.border.panel.8.1.1.1" x="674.12" y="53.01" width="89.87" height="246.58" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.1">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.1.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.1" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.1.clipPath)">
+            <g id="plot_01.bg.strip.8.1.1">
+              <rect id="plot_01.bg.strip.8.1.1.1" x="674.12" y="299.59" width="89.87" height="14.4" fill="rgb(255,229,204)" stroke="rgb(255,229,204)" stroke-opacity="1" fill-opacity="1"/>
+            </g>
+            <g id="plot_01.textr.strip.8.1.1">
+              <g id="plot_01.textr.strip.8.1.1.1" transform="translate(699.06, 306.79)" stroke-width="0.1">
+                <g id="plot_01.textr.strip.8.1.1.1.scale" transform="scale(1, -1)">
+                  <text x="0" y="0" id="plot_01.textr.strip.8.1.1.1.text" text-anchor="start" stroke="rgb(0,0,0)" opacity="1" fill="rgb(0,0,0)" stroke-opacity="1" fill-opacity="1" font-size="12" font-weight="normal" font-style="normal">
+                    <tspan id="plot_01.textr.strip.8.1.1.1.tspan.1" dy="5" x="0">DGS30</tspan>
+                  </text>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.1">
+            <g id="plot_01.border.strip.8.1.1">
+              <rect id="plot_01.border.strip.8.1.1.1" x="674.12" y="299.59" width="89.87" height="14.4" stroke="rgb(0,0,0)" stroke-dasharray="none" stroke-width="0.75" opacity="1" fill="none" stroke-opacity="1" fill-opacity="0"/>
+            </g>
+          </g>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..1"/>
+      </g>
+      <g id="plot_01.toplevel.vp.2" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.2"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.3.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.4.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.3.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.4.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.3.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.4.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.3.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.4.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.3.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.4.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.3.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.4.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.3.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.4.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.3.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.3" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.3.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.2"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.4.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.4" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.4.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.2">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.2.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.2" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.2.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.2"/>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..2"/>
+      </g>
+      <g id="plot_01.toplevel.vp.3" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.3"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.5.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.6.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.5.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.6.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.5.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.6.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.5.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.6.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.5.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.6.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.5.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.6.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.5.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.6.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.5.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.5" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.5.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.3"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.6.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.6" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.6.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.3">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.3.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.3" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.3.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.3"/>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..3"/>
+      </g>
+      <g id="plot_01.toplevel.vp.4" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.4"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.7.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.8.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.7.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.8.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.7.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.8.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.7.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.8.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.7.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.8.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.7.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.8.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.7.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.8.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.7.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.7" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.7.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.4"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.8.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.8" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.8.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.4">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.4.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.4" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.4.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.4"/>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..4"/>
+      </g>
+      <g id="plot_01.toplevel.vp.5" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.5"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.9.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.10.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.9.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.10.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.9.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.10.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.9.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.10.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.9.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.10.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.9.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.10.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.9.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.10.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.9.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.9" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.9.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.5"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.9"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.10.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.10" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.10.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.10"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.5">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.5.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.5" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.5.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.5"/>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..5"/>
+      </g>
+      <g id="plot_01.toplevel.vp.6" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.6"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.11.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.12.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.11.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.12.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.11.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.12.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.11.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.12.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.11.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.12.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.11.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.12.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.11.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.12.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.11.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.11" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.11.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.6"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.11"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.12.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.12" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.12.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.12"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.6">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.6.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.6" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.6.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.6"/>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..6"/>
+      </g>
+      <g id="plot_01.toplevel.vp.7" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.7"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.13.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.14.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.13.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.14.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.13.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.14.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.13.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.14.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.13.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.14.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.13.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.14.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.13.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.14.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.13.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.13" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.13.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.7"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.13"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.14.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.14" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.14.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.14"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.7">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.7.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.7" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.7.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.7"/>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..7"/>
+      </g>
+      <g id="plot_01.toplevel.vp.8" font-size="12">
+        <g id="plot_01.toplevel.vp::plot_01.xlab.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.ylab.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.figure.vp.8"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.15.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.1.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.16.clipPath">
+            <rect x="45.01" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.1.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.1.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="45.01" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.1.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.15.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.2.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.16.clipPath">
+            <rect x="134.88" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.2.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.2.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="134.88" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.2.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.15.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.3.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.16.clipPath">
+            <rect x="224.75" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.3.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.3.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="224.75" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.3.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.15.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.4.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.16.clipPath">
+            <rect x="314.63" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.4.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.4.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="314.63" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.4.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.15.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.5.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.16.clipPath">
+            <rect x="404.5" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.5.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.5.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="404.5" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.5.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.15.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.6.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.16.clipPath">
+            <rect x="494.37" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.6.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.6.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="494.37" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.6.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.15.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.7.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.16.clipPath">
+            <rect x="584.25" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.7.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.7.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="584.25" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.7.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.15.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.15" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.15.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.left.8.1.off.vp.8"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.15"/>
+        <defs>
+          <clipPath id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.16.clipPath">
+            <rect x="674.12" y="53.01" width="89.87" height="246.58" fill="none" stroke="none"/>
+          </clipPath>
+        </defs>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.vp.16" clip-path="url(#plot_01.toplevel.vp::plot_01.panel.8.1.vp.16.clipPath)"/>
+        <g id="plot_01.toplevel.vp::plot_01.panel.8.1.off.vp.16"/>
+        <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp.8">
+          <defs>
+            <clipPath id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.8.clipPath">
+              <rect x="674.12" y="299.59" width="89.87" height="14.4" fill="none" stroke="none"/>
+            </clipPath>
+          </defs>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.8" clip-path="url(#plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.1.8.clipPath)"/>
+          <g id="plot_01.toplevel.vp::plot_01.strip.8.1.vp::plot_01.strip.default.off.1.8"/>
+        </g>
+        <g id="plot_01.toplevel.vp::plot_01..8"/>
+      </g>
+    </g>
+  </g>
+</svg>
