@@ -123,7 +123,7 @@ exportlist <- grid.export("", addClasses = TRUE )
 <div>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="576px" height="360px" viewBox="0 0 576 360" version="1.1">
   <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
-    <gridsvg:generator name="gridSVG" version="1.3-0" time="2013-08-13 17:06:10"/>
+    <gridsvg:generator name="gridSVG" version="1.3-0" time="2013-08-13 17:19:33"/>
     <gridsvg:argument name="name" value=""/>
     <gridsvg:argument name="exportCoords" value="none"/>
     <gridsvg:argument name="exportMappings" value="none"/>
@@ -966,6 +966,9 @@ focus.append("circle")
 focus.append("text")
   .attr("x", 9)
   .attr("dy", ".35em");
+  
+svg.select("#gridSVG").append("path")
+  .attr("class", "yieldcurve")
 
 svg
   .on("mouseover", function () { focus.style("display", null); })
@@ -999,10 +1002,12 @@ function mousemove() {
              // .attr("fill", "black"); //color(0));
       yieldcurve.push({x:d.x,y:d.y})
   });
-  svg.selectAll('.yieldcurve').append("path")
-    .data(yieldcurve)
+  svg.selectAll(".yieldcurve")
+    .datum(yieldcurve)
     .attr("d",line)
-    .attr("class","yieldcurve")
+    .attr("fill","none")
+    .attr("stroke","black");
+    //.attr("transform","scale(1,-1)")
 }
 </script>
 

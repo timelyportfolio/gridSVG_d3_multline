@@ -250,6 +250,9 @@ focus.append("circle")
 focus.append("text")
   .attr("x", 9)
   .attr("dy", ".35em");
+  
+svg.select("#gridSVG").append("path")
+  .attr("class", "yieldcurve")
 
 svg
   .on("mouseover", function () { focus.style("display", null); })
@@ -283,10 +286,12 @@ function mousemove() {
              // .attr("fill", "black"); //color(0));
       yieldcurve.push({x:d.x,y:d.y})
   });
-  svg.selectAll('.yieldcurve').append("path")
-    .data(yieldcurve)
+  svg.selectAll(".yieldcurve")
+    .datum(yieldcurve)
     .attr("d",line)
-    .attr("class","yieldcurve")
+    .attr("fill","none")
+    .attr("stroke","black");
+    //.attr("transform","scale(1,-1)")
 }
 </script>
 
