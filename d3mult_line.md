@@ -18,7 +18,7 @@ assets:
 
 
 
-As another post in the series, I thought I would show one way of using d3 to bind data from a gridSVG exported lattice plot.  This time we will have multiple strips complicating our data bind.  Also, I will use a different set of techniques to send the data from R to Javascript.  I think I prefer how I have done it previous posts though.  No sense in wasting time with the intro.  Let's grab US Treasury Yield Curve data from the [Federal Reserve Bank of St. Louis FRED](http://research.stlouisfed.org/fred2/).
+As another post in the series, I thought I would show an alternate way of using d3 to bind data from a gridSVG exported lattice plot.  This time we will have multiple strips complicating our data bind.  Also, I will use a different set of techniques to send the data from R to Javascript.  I think I prefer how I have done it previous posts though.  No sense in wasting time with the intro.  Let's grab US Treasury Yield Curve data from the [Federal Reserve Bank of St. Louis FRED](http://research.stlouisfed.org/fred2/).
 
 ### FRED, Give Us Some Treasury Yield Data
 We will get the daily yield series for US Treasuries with 1, 2, 3, 5, 7, 10, 20, and 30 year maturities.
@@ -123,7 +123,7 @@ exportlist <- grid.export("", addClasses = TRUE )
 <div>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="576px" height="360px" viewBox="0 0 576 360" version="1.1">
   <metadata xmlns:gridsvg="http://www.stat.auckland.ac.nz/~paul/R/gridSVG/">
-    <gridsvg:generator name="gridSVG" version="1.3-0" time="2013-08-13 17:19:33"/>
+    <gridsvg:generator name="gridSVG" version="1.3-0" time="2013-08-14 08:46:52"/>
     <gridsvg:argument name="name" value=""/>
     <gridsvg:argument name="exportCoords" value="none"/>
     <gridsvg:argument name="exportMappings" value="none"/>
@@ -953,15 +953,15 @@ g[0].forEach(function(d) {
 })
 
 var focus = svg.selectAll(".focus")
-                    .data(d3.entries(data.groups)).enter().append("g")
-                          .attr("class", "focus")
-                          .attr("id", function (d, i) { return "focus-" + i; })
-                          .style("display", "none");
+        .data(d3.entries(data.groups)).enter().append("g")
+          .attr("class", "focus")
+          .attr("id", function (d, i) { return "focus-" + i; })
+          .style("display", "none");
 
 focus.append("circle")
-                  .attr("r", 4.5)
-                  .attr("stroke", "black")
-                  .attr("fill-opacity", "0");
+        .attr("r", 4.5)
+        .attr("stroke", "black")
+        .attr("fill-opacity", "0");
 
 focus.append("text")
   .attr("x", 9)
@@ -971,8 +971,14 @@ svg.select("#gridSVG").append("path")
   .attr("class", "yieldcurve")
 
 svg
-  .on("mouseover", function () { focus.style("display", null); })
-  .on("mouseout", function () { focus.style("display", "none"); })
+  .on("mouseover", function () {
+      focus.style("display", null);
+      svg.selectAll(".yieldcurve").style("display",null)
+  })
+  .on("mouseout", function () {
+      focus.style("display", "none");
+      svg.selectAll(".yieldcurve").style("display","none")
+  })
   .on("mousemove", mousemove);
 
 function mousemove() {
@@ -1054,3 +1060,5 @@ g[0].forEach(function(d) {
     .attr("stroke","white")
 })
 ```
+
+As usual, we can do lots of things with bound data.  We'll build a little on [R/gridSVG/d3 Line Reverse Data Bind](http://timelyportfolio.blogspot.com/2013/08/rgridsvgd3-line-reverse-data-bind.html) by adding a similar mouseover, but this time for each of the lines.  I also wanted to test if adding the yield curve would be helpful.  Of course, this is a rough sketch and could be improved greatly by some simple styling.  I'll leave that to you.
